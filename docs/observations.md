@@ -8,7 +8,7 @@ The MSc thesis reports four two-element solar drift-scan sessions near 1.420 GHz
 
 | Baseline | Measured fringe period | Predicted period | Thesis summary |
 |---:|---:|---:|---|
-| 1.00 m | 44.4 ± 2.8 min | 43.9 min | 3 peaks |
+| 1.00 m | 44.4 ± 2.8 min | 49.8 min | 3 peaks |
 | 1.80 m | 25.6 ± 1.5 min | 26.5 min | 6 peaks |
 | 2.00 m | 23.2 ± 1.8 min | 24.9 min | 6 peaks |
 | 2.40 m | 17.5 ± 2.0 min | 20.8 min | 9 peaks |
