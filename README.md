@@ -9,9 +9,9 @@ The goal is not just to show that an interferometer works, but to make its hardw
 ## Start here
 
 - [Synchronisation guide](docs/synchronization.md)
-- [System architecture](docs/system-architecture.md) — planned
-- [Reproducibility checklist](docs/reproducibility.md) — planned
-- [Observation log and data products](docs/observations.md) — planned
+- [System architecture](docs/system-architecture.md)
+- [Reproducibility checklist](docs/reproducibility.md)
+- [Observation log and data products](docs/observations.md)
 - [Hardware documentation](hardware/)
 - [GNU Radio flowgraphs](gnuradio/)
 - [Python analysis](python/)
