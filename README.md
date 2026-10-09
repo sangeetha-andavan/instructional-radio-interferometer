@@ -11,7 +11,6 @@ The goal is not just to show that an interferometer works, but to make its hardw
 - [Synchronisation guide](docs/synchronization.md)
 - [System architecture](docs/system-architecture.md)
 - [Reproducibility checklist](docs/reproducibility.md)
-- [CASPER toolflow and Python environment setup](docs/casper-toolflow-setup.md)
 - [Observation log and data products](docs/observations.md)
 - [Hardware documentation](hardware/)
 - [GNU Radio flowgraphs](gnuradio/)
